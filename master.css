@@ -1,0 +1,35 @@
+* {
+  list-style: none;
+  text-decoration: none;
+  margin :0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F0F0F0;
+}
+
+header {
+  justify-content: center;
+  display: flex ;
+  position: fixed ;
+  width: 100%;
+  background-color: #FFFFFF;
+}
+
+li {
+  display: inline-block;
+  margin:22px;
+  margin-top: -40px;
+}
+
+.logo {
+  position: relative;
+  top:25px
+}
+
+span {
+  color:#000000 ;
+}
+
